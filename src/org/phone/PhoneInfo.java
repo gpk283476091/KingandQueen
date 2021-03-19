@@ -22,6 +22,10 @@ public void phonecamera() {
 	close
 
 }
+ india dasan is waster fellow
+ have a worst person 
+ husband of lady horse
+ 
 public static void main(String[] args) {
 	PhoneInfo p= new PhoneInfo();
 	p.phonecamera();
