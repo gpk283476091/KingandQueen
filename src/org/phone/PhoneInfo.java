@@ -17,6 +17,9 @@ public void phonestorage() {
 }
 public void phonecamera() {
 	System.out.println("32");
+	setting 
+	name
+	close
 
 }
 public static void main(String[] args) {
