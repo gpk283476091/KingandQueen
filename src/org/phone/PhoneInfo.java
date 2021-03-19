@@ -17,14 +17,22 @@ public void phonestorage() {
 }
 public void phonecamera() {
 	System.out.println("32");
-	setting 
-	name
-	close
+	
 
 }
- india dasan is waster fellow
- have a worst person 
- husband of lady horse
+private void tco() {
+	// TODO Auto-generated method stub
+
+}
+private void tc1() {
+	// TODO Auto-generated method stub
+
+}
+private void tc2() {
+	// TODO Auto-generated method stub
+
+}
+ 
  
 public static void main(String[] args) {
 	PhoneInfo p= new PhoneInfo();
