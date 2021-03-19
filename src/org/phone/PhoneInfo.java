@@ -17,6 +17,10 @@ public void phonestorage() {
 }
 public void phonecamera() {
 	System.out.println("32");
+	the phone is xr
+	the battery is to been 87
+	its a good phone
+	
 	
 
 }
